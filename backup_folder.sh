@@ -1,6 +1,6 @@
 #!/bin/bash
 
-backup_dirs=("/opt/281024-wdm/mikhail_chepkin" "/opt/281024-wdm/Abilbek_Isamidinov")
+backup_dirs=("/opt/281024-wdm/Maryna-Pakulova" "/opt/281024-wdm/Abilbek_Isamidinov")
 backup_location="/tmp/backup_mch"
 
 mkdir -p "$backup_location"
